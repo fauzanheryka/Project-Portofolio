@@ -38,7 +38,6 @@ Project Link | Associated | Tools | Project Description
 - [SQL Basic Hacker Rank](https://drive.google.com/file/d/1po5U33DNTkMJavn1wuHoyJDVvj35SPuY/view) | Hacker Rank
 - [Certificate of Awardee The Winner Best Final Project ](https://drive.google.com/file/d/1u_pwpT6e57gLO3mrHOvboXqlYKSDa1Fh/view?usp=drive_link) | Rakamin Academy 
 - [Certificate of Completion Data Science With Excellent Grade](https://drive.google.com/file/d/1ANCAkcYM9jaUREwUua08dvzuJAmd0_t6/view?usp=drive_link) | Rakamin Academy 
-- [Professional Academy (PROA) : Google Data AnalyticsProfessional Academy (PROA) : Google Data Analytics
-Digital Talent Scholarship](https://drive.google.com/drive/u/0/folders/1NCenzIbrEZ8Bi8s91wFik998nPQtLfNw) | Kominfo X Dicoding 
+- [Professional Academy (PROA) : Google Data Analytics](https://drive.google.com/drive/u/0/folders/1NCenzIbrEZ8Bi8s91wFik998nPQtLfNw) | Kominfo X Dicoding 
 - [SQL For Data Analysis](https://drive.google.com/file/d/1MtDKmSc6SJIEcd7tiCcUsA20G4gMzS2z/view?usp=sharing) | MySkill
 - [Transcript Data Science Rakamin Academy ](https://drive.google.com/file/d/1iKmVABCDsC_q4aU9yCX5TiyPeFKGhPq1/view?usp=drive_link) | Rakamin Academy
