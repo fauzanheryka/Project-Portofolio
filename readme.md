@@ -12,6 +12,7 @@ This documentation is like a  of my project in the data field, showing off my sk
 Project Link | Associated | Scope | Library | Project Description 
 ---|---|---|---|---
 [Health Insurance Cross Sell Prediction](https://github.com/fauzanheryka/Data_Connector) | Final Project Rakamin Academy (Team) | EDA, Data Processing, Supervised Learning - Classification, Business Recomendation |pandas, matplotlib, seaborn, scikit-learn, shap | Make a Business recomendation and Build prediction model for customer who potential convert from Health insurance to Car insurance. Result best model use logistic regression with recall score 97% and succesfully increase conversion rate from 12% to 49%.
+[Investigate Hotel Business using Data Visualization](https://github.com/fauzanheryka/Investigate-Hotel-Business-using-Data-Visualization#investigate-hotel-business-using-data-visualization) | Mini Project Rakamin | Data Wraggling, EDA, Data Visualization | Pandas, Numpy, Matplotlib, Seaborn | A company must evaluate its business performance on a regular basis. By examining business performance, the organization can choose the best course of action to address an issue.This time, we'll look at how the hotel sector performed. This project's main objective is to discover the customer characters who make hotel reservations and how they relate to the rates of cancellations. Thus, this project will analyze three things.
 <br>
 <br>
 
