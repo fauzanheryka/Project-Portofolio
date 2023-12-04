@@ -31,6 +31,7 @@ Project Link | Associated | Scope| Tools | Project Description
 Project Link | Associated | Tools | Project Description
 ---|---|---|---
 [Product Revenue Dashboard](https://lookerstudio.google.com/u/0/reporting/f6870052-d5a2-4ccb-bb86-b662a8857c4f/page/ZxnWD) | Mini Project Rakamin | looker studio | Evaluated the product Revenue
+[Sales Report Dashboard PT.Kimia Farma](https://lookerstudio.google.com/s/mC4Hb6OoUKg) | Vix PT.Kimia Farma Big Data Analyst | Looker Studio | For the company, I created a data mart, analyzed the provided data, and generated sales reports. In addition, a dashboard was created that largely focuses on six-month sales data, including key performance indicators such as total revenue each month, total sales per branch location, total sales by product, and more.
 <br>
 <br>
 
