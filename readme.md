@@ -40,11 +40,12 @@ Project Link | Associated | Tools | Project Description
 <br>
 
 
-### Completed Course and Certification
-
+### Completed Course and Certification<br>
+- [Project Based Internship Kimia Farma X Rakamin Academy ](https://drive.google.com/file/d/1u7ThN0g6fPIkNLCczE2-H227v6-57KTJ/view?usp=sharing) | Kimia Farma X Rakamin Academy
 - [SQL Basic Hacker Rank](https://drive.google.com/file/d/1po5U33DNTkMJavn1wuHoyJDVvj35SPuY/view) | Hacker Rank
 - [Certificate of Awardee The Winner Best Final Project ](https://drive.google.com/file/d/1u_pwpT6e57gLO3mrHOvboXqlYKSDa1Fh/view?usp=drive_link) | Rakamin Academy 
 - [Certificate of Completion Data Science With Excellent Grade](https://drive.google.com/file/d/1ANCAkcYM9jaUREwUua08dvzuJAmd0_t6/view?usp=drive_link) | Rakamin Academy 
 - [Professional Academy (PROA) : Google Data Analytics](https://drive.google.com/file/d/10NoU7MdLy9fiWhrHdMEQQiIp8e0H0UYQ/view?usp=drive_link) | Kominfo X Dicoding 
 - [SQL For Data Analysis](https://drive.google.com/file/d/1MtDKmSc6SJIEcd7tiCcUsA20G4gMzS2z/view?usp=sharing) | MySkill
 - [Transcript Data Science Rakamin Academy ](https://drive.google.com/file/d/1iKmVABCDsC_q4aU9yCX5TiyPeFKGhPq1/view?usp=drive_link) | Rakamin Academy
+
